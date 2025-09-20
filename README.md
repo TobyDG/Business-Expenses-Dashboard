@@ -87,6 +87,9 @@ From the dashboard (2023–2025):
 The dashboard provides a clear overview of company spending trends, highlighting areas where costs can be better managed.  
 By leveraging **Excel, Power Query, and DAX**, the project transformed raw, scattered data into actionable insights that support smarter financial decisions.  
 
+---
 
+## 📸 Dashboard Preview
+![Expenses Dashboard](Dashboard.png)
 
 
