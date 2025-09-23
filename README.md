@@ -16,10 +16,10 @@ It provides a comprehensive view of in-house expenses and project-related costs 
   - Year  
   - Description  
   - In-house expenses  
-  - Project SIL Chemical expenses  
-  - Project SPG expenses  
-  - Project Agungi expenses  
-  - Project Constant Watch expenses  
+  - Project A expenses  
+  - Project B expenses  
+  - Project C expenses  
+  - Project D expenses  
   - Other projects  
   - **Total expenses**  
 
@@ -64,10 +64,10 @@ From the dashboard (2023–2025):
 - **In-house Expenses:** ₦103M (majority of spending)  
 - **Project Expenses:** ₦7M distributed across 5 projects.  
 - **Expense Distribution:**  
-  - SIL → 44%  
-  - SPG → 32%  
-  - Constant Watch → 15%  
-  - Agungi → 6%  
+  - Project A → 44%  
+  - Project B → 32%  
+  - Project D → 15%  
+  - Project C → 6%  
   - Others → 3%  
 - **Highest Annual Spend:** Recorded in **2025**.  
 - **Peak Monthly Spending:** May, followed by June and March.  
@@ -78,7 +78,7 @@ From the dashboard (2023–2025):
 ## 💡 Recommendations
 - Closely monitor **in-house expenses** as they account for ~92% of total spending.  
 - Investigate **May’s spike in expenses** to identify root causes and prevent overspending.  
-- Evaluate **project allocation**, especially SIL and SPG, which consume ~76% of project expenses.  
+- Evaluate **project allocation**, especially Project A and Project B, which consume ~76% of project expenses.  
 - Implement stricter cost-control measures during high-spending periods.  
 
 ---
